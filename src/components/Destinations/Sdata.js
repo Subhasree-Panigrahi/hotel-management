@@ -1,0 +1,66 @@
+const Sdata = [
+  {
+    id: 1,
+    title: "Goa",
+    img: "/images/dest-1.jpg",
+    paraImage_1: "/images/dest-1.jpg",
+    desc: "Goa, a tiny emerald land on the west coast of India, the 25th state of the Union states of India, was liberated from Portuguese rule in 1961. It was a part of Union Territory of Goa, Daman & Diu till 30th May 1987 when it was carved out of form a separate state. Goa covers an area of 3702 square kilometers and comprises two Revenue district viz North Goa and South Goa. Boundaries of Goa State are defined in the North Terekhol river which separates it from Maharashtra, in the East and South by Karnataka State and West by Arabian Sea. Goa lies in Western Coast of India and is 594 Km (by road) away from Mumbai city.",
+    sidepara: 'Located 500 metres from the beautiful Tivai Beach and 2.5 km from Calangute beach, the colourful ibis Styles Goa Calangute - An Accor Brand offers 2 outdoor swimming pools, one kids pool ',
+    paraImage_one: "/images/single-1.jpg",
+    paraImage_two: "/images/single-2.jpg",
+
+  },
+  {
+    id: 2,
+    title: "London",
+    img: "images/dest-2.jpg",
+    paraImage_1: "/images/dest-2.jpg",
+    desc: "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city",
+    sidepara: "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. ",
+    paraImage_one: "/images/blog3.jpg",
+    paraImage_two: "/images/blog4.jpg",
+  },
+  {
+    id: 3,
+    title: "Los Angeles",
+    img: "images/dest-3.jpg",
+    paraImage_1: "/images/dest-3.jpg",
+    desc: "Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures, Universal and Warner Brothers offer behind-the-scenes tours. On Hollywood Boulevard, TCL Chinese Theatre displays celebrities’ hand- and footprints, the Walk of Fame honors thousands of luminaries and vendors sell maps to stars’ homes",
+    sidepara: "Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. ",
+    paraImage_one: "/images/blog5.jpg",
+    paraImage_two: "/images/blog6.jpg",
+  },
+
+  {
+    id: 4,
+    title: "Paris",
+    img: "images/dest-4.jpg",
+    paraImage_1: "/images/dest-1.jpg",
+    desc: "Paris is one of the most beautiful cities in the world. It is known worldwide for the Louvre Museum, Notre-Dame cathedral, and the Eiffel tower. It has a reputation of being a romantic and cultural city. The city is also known for its high-quality gastronomy and the terraces of its cafés.",
+    sidepara: "Paris is one of the most beautiful cities in the world. It is known worldwide for the Louvre Museum, Notre-Dame cathedral, and the Eiffel tower. It has a reputation of being a romantic and cultural city. ",
+    paraImage_one: "/images/blog1.jpg",
+    paraImage_two: "/images/blog2.jpg",
+  },
+  {
+    id: 5,
+    title: "America",
+    img: "images/dest-5.jpg",
+    paraImage_1: "/images/dest-5.jpg",
+    desc: "The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean. Major Atlantic Coast cities are New York, a global finance and culture center, and capital Washington, DC. Midwestern metropolis Chicago is known for influential architecture and on the west coast, Los Angeles' Hollywood is famed for filmmaking.",
+    sidepara: "The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean. ",
+    paraImage_one: "/images/blog7.jpg",
+    paraImage_two: "/images/blog8.jpg",
+  },
+  {
+    id: 6,
+    title: "Cape-Town",
+    img: "images/dest-6.jpg",
+    paraImage_1: "/images/dest-6.jpg",
+    desc: "Cape Town is a port city on South Africa’s southwest coast, on a peninsula beneath the imposing Table Mountain. Slowly rotating cable cars climb to the mountain’s flat top, from which there are sweeping views of the city, the busy harbor and boats heading for Robben Island, the notorious prison that once held Nelson Mandela, which is now a living museum.",
+    sidepara: "Cape Town is a port city on South Africa’s southwest coast, on a peninsula beneath the imposing Table Mountain. ",
+    paraImage_one: "/images/blog9.jpg",
+    paraImage_two: "/images/blog1.jpg",
+  },
+]
+
+export default Sdata
